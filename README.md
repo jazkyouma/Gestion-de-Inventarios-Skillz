@@ -21,9 +21,9 @@ La arquitectura del sistema se basa en una aplicación Java modular, separada en
 - **Gestión de Versiones:** Git y GitHub, con ramas principales `develop` y `master` y branches específicos para cada nueva funcionalidad.
 
 ### Tabla de Contenidos
-- [Requerimientos](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Configuraci%C3%B3n)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Roadmap](#roadmap)
+- [Requerimientos](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Requerimientos)
+- [Instalación](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Instalaci%C3%B3n)
+- [Configuración](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Configuraci%C3%B3n)
+- [Uso](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Uso)
+- [Contribución](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Contribuci%C3%B3n)
+- [Roadmap](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Roadmap)
