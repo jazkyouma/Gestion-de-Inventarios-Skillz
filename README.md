@@ -21,7 +21,7 @@ La arquitectura del sistema se basa en una aplicación Java modular, separada en
 - **Gestión de Versiones:** Git y GitHub, con ramas principales `develop` y `master` y branches específicos para cada nueva funcionalidad.
 
 ### Tabla de Contenidos
-- [Requerimientos](#requerimientos)
+- [Requerimientos](https://github.com/jazkyouma/Gestion-de-Inventarios-Skillz/wiki/Configuraci%C3%B3n)
 - [Instalación](#instalación)
 - [Configuración](#configuración)
 - [Uso](#uso)
