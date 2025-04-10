@@ -19,3 +19,11 @@ La arquitectura del sistema se basa en una aplicación Java modular, separada en
 - **Persistencia:** Utiliza JDBC para la conexión a una base de datos relacional (MySQL/PostgreSQL).
 - **Integración Continua:** Configurada con Travis CI para la ejecución de pruebas (JUnit).
 - **Gestión de Versiones:** Git y GitHub, con ramas principales `develop` y `master` y branches específicos para cada nueva funcionalidad.
+
+### Tabla de Contenidos
+- [Requerimientos](#requerimientos)
+- [Instalación](#instalación)
+- [Configuración](#configuración)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Roadmap](#roadmap)
